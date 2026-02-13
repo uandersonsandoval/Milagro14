@@ -4,7 +4,7 @@ onload = () =>{
 const contador = document.getElementById("contador");
 
 // 👉 Cambia el año si es necesario
-const fechaObjetivo = new Date("February 15, 2026 00:00:00").getTime();
+const fechaObjetivo = new Date("February 14, 2026 00:00:00").getTime();
 
 function actualizarContador() {
 
