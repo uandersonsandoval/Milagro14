@@ -12,7 +12,7 @@ function actualizarContador() {
   const diferencia = fechaObjetivo - ahora;
 
   if (diferencia <= 0) {
-    contador.innerHTML = "💖 ¡Ya es 15 de Febrero! 💖";
+    contador.innerHTML = "💖 ¡Ya es 14 de Febrero! 💖";
     return;
   }
 
